@@ -1,16 +1,18 @@
 # PNU_3991_AR
 # فاطمه ایرانی
-#### pnu repository: https://github.com/Fatemeh7720/PNU_3991_AR.git
-#### Resume: https://fatemeh7720.github.io/RESUME/
-#### SOP: https://fatemeh7720.github.io/SOP/
-#### Github: https://github.com/Fatemeh7720
-#### Certificate: https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf
+----
+- [Github](https://github.com/Fatemeh7720)
+- [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
+- [Resume](https://fatemeh7720.github.io/RESUME/)
+- [SOP](https://fatemeh7720.github.io/SOP/)
+- [javascript Certificate](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf)
+
 --------------
 ##  درس پروژه فناوری اطلاعات	
 
 <table style="width:100%">
   <tr>
-    <th>استاد درس پروژه فناوری اطلاعات</th>
+    <th>درس پروژه فناوری اطلاعات</th>
     <th>نام درس</th>
   </tr>
   <tr>
