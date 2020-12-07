@@ -5,13 +5,22 @@
 #### SOP: https://fatemeh7720.github.io/SOP/
 #### Github: https://github.com/Fatemeh7720
 #### Certificate: https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf
-# اعضای گروه درس پروژه
-#### فائزه قلار: https://faeze-qlr.github.io/me/faeze-qollar.pdf و  https://faeze-qlr.github.io/me/SOP.pdf
-#### لیلا علیپور: https://leilaalipour.github.io/leilaalipour/ و https://leilaalipour.github.io/leilaalipour/
-#### مینا قاسمی: https://github.com/minaghasemi7 و https://minaghasemi7.github.io/sop/ 
-#### فاطمه ایرانی: https://fatemeh7720.github.io/RESUME/ و https://fatemeh7720.github.io/SOP/
 --------------
-## اعضای گروه درس پروژه
+## درس پروژه فناوري اطلاعات	
+
+<table style="width:100%">
+  <tr>
+    <th>مدیریت درس پروژه فناوری اطلاعات</th>
+    <th>نام درس</th>
+  </tr>
+  <tr>
+    <th>دکتر علی رضوی ابراهیمی : https://github.com/AliRazavi-edu/PNU_3991</th>
+    <th>درس پروژه فناوري اطلاعات</th>
+  </tr>
+</table>
+
+--------------
+## اعضای گروه درس پروژه فناوری اطلاعات
 
 <table style="width:100%">
   <tr>
@@ -22,31 +31,31 @@
     <th>ردیف</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
+    <th >https://fatemeh7720.github.io/SOP/</th>
+    <th >https://fatemeh7720.github.io/RESUME/</th>
+    <th>فاطمه ایرانی</th>
+    <th>963769777</th>
     <th>1</th>
   </tr>
    <tr>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
+    <th >https://leilaalipour.github.io/leilaalipour/</th>
+    <th>https://leilaalipour.github.io/leilaalipour/</th>
+    <th>لیلا علیپور</th>
+    <th >963924448</th>
     <th>2</th>
   </tr>
    <tr>
-     <th ></th>
-     <th></th>
-     <th></th>
-    <th ></th>   
+     <th >https://leilaalipour.github.io/leilaalipour/</th>
+     <th>https://github.com/minaghasemi7</th>
+     <th>مینا قاسمی</th>
+    <th >963930469</th>   
     <th>3</th>
   </tr>
    <tr>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
+    <th >https://faeze-qlr.github.io/me/SOP.pdf</th>
+    <th>https://faeze-qlr.github.io/me/faeze-qollar.pdf</th>
+    <th>فائزه قلار</th>
+    <th >963953207</th>
     <th>4</th>
   </tr>
 </table>
