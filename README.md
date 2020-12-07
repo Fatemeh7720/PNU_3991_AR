@@ -38,7 +38,7 @@
     <th>1</th>
   </tr>
    <tr>
-    <th >https://leilaalipour.github.io/leilaalipour/</th>
+    <th >https://github.com/leilaalipour/SOP</th>
     <th>https://leilaalipour.github.io/leilaalipour/</th>
     <th>لیلا علیپور</th>
     <th >963924448</th>
