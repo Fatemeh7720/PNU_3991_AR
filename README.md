@@ -45,7 +45,7 @@
     <th>2</th>
   </tr>
    <tr>
-     <th >https://leilaalipour.github.io/leilaalipour/</th>
+     <th >https://minaghasemi7.github.io/sop/</th>
      <th>https://github.com/minaghasemi7</th>
      <th>مینا قاسمی</th>
     <th >963930469</th>   
