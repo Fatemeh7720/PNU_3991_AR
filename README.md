@@ -6,21 +6,21 @@
 #### Github: https://github.com/Fatemeh7720
 #### Certificate: https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf
 --------------
-## درس پروژه فناوري اطلاعات	
+## درس پروژه	
 
 <table style="width:100%">
   <tr>
-    <th>مدیریت درس پروژه فناوری اطلاعات</th>
+    <th>استاد درس پروژه</th>
     <th>نام درس</th>
   </tr>
   <tr>
     <th>دکتر علی رضوی ابراهیمی : https://github.com/AliRazavi-edu/PNU_3991</th>
-    <th>درس پروژه فناوري اطلاعات</th>
+    <th>درس پروژه </th>
   </tr>
 </table>
 
 --------------
-## اعضای گروه درس پروژه فناوری اطلاعات
+## اعضای گروه درس پروژه
 
 <table style="width:100%">
   <tr>
