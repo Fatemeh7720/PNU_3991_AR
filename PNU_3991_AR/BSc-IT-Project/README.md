@@ -1,13 +1,16 @@
 <div dir="rtl">
+-------
 
-# فاطمه ایرانی
+## درس پروژه فناوری اطلاعات
+
+### فاطمه ایرانی
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 - [Resume](https://saharzeinivand.github.io/Resume/) 
 - [SOP](https://saharzeinivand.github.io/SOP/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
 --------------------------
-## سیاهه ارزشیابی درس
+### سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -22,32 +25,22 @@
     
 -------------------------
 
-## گروه
+### گروه
 
-    1. [فاطمه ایرانی](https://github.com/Fatemeh7720/PNU_3991_AR.git)
-    1. [لیلا علی پور](https://github.com/leilaalipour/PNU_3991_AR)
-    1. [مینا قاسمی](https://github.com/minaghasemi7)
-    1. [فائزه قلار](https://github.com/faeze-qlr/PNU_3991_AR)
+ -   [فاطمه ایرانی](https://github.com/Fatemeh7720/PNU_3991_AR.git)
+ -   [لیلا علی پور](https://github.com/leilaalipour/PNU_3991_AR)
+ -   [مینا قاسمی](https://github.com/minaghasemi7)
+ -   [فائزه قلار](https://github.com/faeze-qlr/PNU_3991_AR)
 
 
 --------------
 
 
-## اعضای گروه درس پروژه
+### اطلاعات اعضای گروه
 
 
 
 <table style="width:100%">
-
-<tr>
-<td colspan="6" align="center">اعضای گروه</td>
-</tr>
-
-  
-<tr>
-<td colspan="6"  align="center">نام درس :پروژه فناوری اطلاعات</td>
-</tr>
-
 <tr>
 <td colspan="6"  align="center">موضوع پروژه:</td>
 </tr>
@@ -96,7 +89,5 @@
  
 </table>
 
-
------------------------
 
 </div>
