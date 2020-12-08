@@ -1,27 +1,97 @@
 # PNU_3991_AR
-# فاطمه ایرانی
-----
-- [Github](https://github.com/Fatemeh7720)
+-----------
+### فاطمه ایرانی
+
+-----------
+
+- [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
-- [Resume](https://fatemeh7720.github.io/RESUME/)
+- [رزومه](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
-- [javascript Certificate](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf)
+- [javascript Certificate](JS.pdf)
+
+-------------
+
+## Winter Semester Courses 1399/2020
+
+## دروس کارشناسی
+
+
+[1115071_01	آزمایشگاه مدار الکتریکی	     1]
+<br>
+[1115209_01	آزمایشگاه شبکه های کامپیوتری    ]
+<br>
+[1115204_01	سیگنالها و سیستم ها	      ]
+<br> 
+[1115204_01	فرهنگ و تمدن اسلام و ایران     ]
+<br>
+[1322035_01	پروژه فناوری اطلاعات	]
 
 --------------
-##  درس پروژه فناوری اطلاعات	
+
+## روز و ساعت ارائه دروس
 
 <table style="width:100%">
   <tr>
-    <th>درس پروژه فناوری اطلاعات</th>
-    <th>نام درس</th>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
   </tr>
   <tr>
-    <th>دکتر علی رضوی ابراهیمی : https://github.com/AliRazavi-edu/PNU_3991</th>
-    <th>استاد درس</th>
+    <th >آزمایشگاه مدار الکتریکی</th>
+    <th >سیگنالها و سیستم ها</th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th >آزمایشگاه شبکه های کامپیوتری</th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ></th>
+     <th >فرهنگ و تمدن اسلام و ایران</th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
   </tr>
 </table>
 
 --------------
+
 ## اعضای گروه درس پروژه
 
 <table style="width:100%">
