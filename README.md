@@ -5,15 +5,20 @@
 
 -----------
 
-## فاطمه ایرانی
+### فاطمه ایرانی
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [رزومه](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 
 -------------
+
+<div align="center">
+     
 ## Winter Semester Courses 1399/2020
----------
+
+</div>
+
 ### دروس کارشناسی
 
 1115071_01	آزمایشگاه مدار الکتریکی   1
@@ -29,13 +34,13 @@
 --------------
 <div align="center">
      
-### روز و ساعت ارائه دروس
+#### روز و ساعت ارائه دروس
 
 </div>
 
 <div dir="ltr">
 
-<table style="width:65%">
+<table style="width:100%">
   <tr>
     <th colspan="6" align="center">16-18</th>
     <th colspan="6" align="center">14-16</th>
