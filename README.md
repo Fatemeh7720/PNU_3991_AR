@@ -5,7 +5,7 @@
 
 -----------
 
-# فاطمه ایرانی
+## فاطمه ایرانی
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [رزومه](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
@@ -22,8 +22,7 @@
 <br> 
 1115204_01	سیگنالها و سیستم ها	 
 <br>
-1115204_01	فرهنگ و تمدن اسلام و ایران  
-<br>
+1115204_01	فرهنگ و تمدن اسلام و ایران 
 [1322035_01	پروژه فناوری اطلاعات](https://github.com/Fatemeirani/PNU_3991_AR/tree/main/BSc-IT-Project)    
 
 --------------
