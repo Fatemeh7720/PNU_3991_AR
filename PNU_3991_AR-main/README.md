@@ -1,34 +1,39 @@
-# PNU_3991_AR
+## [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
+
+<div dir="rtl">
+
 -----------
 
-### فاطمه ایرانی
-
------------
-
+# فاطمه ایرانی
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [رزومه](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 
 -------------
-
 ## Winter Semester Courses 1399/2020
-
+---------
 ### دروس کارشناسی
 
-
-- 1115071_01	آزمایشگاه مدار الکتریکی   1
-- 1115209_01	آزمایشگاه شبکه های کامپیوتری  
-- 1115204_01	سیگنالها و سیستم ها	 
-- 1115204_01	فرهنگ و تمدن اسلام و ایران  
-- [1322035_01	پروژه فناوری اطلاعات	](https://github.com/Fatemeh Irani/PNU_3991_AR/tree/main/IT Project)     
-
+1115071_01	آزمایشگاه مدار الکتریکی   1
+<br>
+1115209_01	آزمایشگاه شبکه های کامپیوتری 
+<br> 
+1115204_01	سیگنالها و سیستم ها	 
+<br>
+1115204_01	فرهنگ و تمدن اسلام و ایران  
+<br>
+[1322035_01	پروژه فناوری اطلاعات](https://github.com/Fatemeirani/PNU_3991_AR/tree/main/ITProject)     
 --------------
+<div align="center">
+     
+## روز و ساعت ارائه دروس
 
-### روز و ساعت ارائه دروس
+</div>
 
+<div dir="ltr">
 
-<table style="width:60%">
+<table style="width:65%">
   <tr>
     <th colspan="6" align="center">16-18</th>
     <th colspan="6" align="center">14-16</th>
@@ -86,3 +91,5 @@
     <th colspan="6" align="center">پنج شنبه</th>
   </tr>
 </table>
+
+</div>
