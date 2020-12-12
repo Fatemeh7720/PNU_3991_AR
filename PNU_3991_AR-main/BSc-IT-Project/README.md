@@ -32,12 +32,10 @@
  -   [فائزه قلار](https://github.com/faeze-qlr/PNU_3991_AR)
 
 
-------
 </div>
 
 <div dir="rtl">
-    
-------
+
 </div>
 
 ### اطلاعات اعضای گروه
