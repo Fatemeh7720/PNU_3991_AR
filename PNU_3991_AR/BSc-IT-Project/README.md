@@ -4,11 +4,11 @@
 ## درس پروژه فناوری اطلاعات
 
 ### فاطمه ایرانی
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/Resume/) 
-- [SOP](https://saharzeinivand.github.io/SOP/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
+- [Resume](https://fatemeh7720.github.io/RESUME/) 
+- [SOP](https://fatemeh7720.github.io/SOP/)
+- [javascript Certificate](JS.pdf)
+- [GitHub](https://github.com/Fatemeh7720)
 --------------------------
 ### سیاهه ارزشیابی درس
 
@@ -35,10 +35,11 @@
 
 --------------
 
-
 ### اطلاعات اعضای گروه
 
 
+------
+</div>
 
 <table style="width:100%">
 <tr>
@@ -77,17 +78,11 @@
  <td  align="center">980218741</td>
  <td align="center">3</td>
  </tr>
- 
  <tr>
  <td  align="center">https://fatemeh7720.github.io/SOP/</td>
  <td  align="center">https://fatemeh7720.github.io/RESUME/</td>
  <td  align="center">فاطمه ایرانی</td>
- <td  align="center">970000454</td>
+ <td  align="center">963769777</td>
  <td align="center">4</td>
  </tr>
- 
- 
 </table>
-
-
-</div>
