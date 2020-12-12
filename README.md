@@ -2,7 +2,7 @@
 ## درس پروژه فناوری اطلاعات
 
 ### فاطمه ایرانی
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR)
 - [Resume](https://saharzeinivand.github.io/Resume/) 
 - [SOP](https://saharzeinivand.github.io/SOP/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
