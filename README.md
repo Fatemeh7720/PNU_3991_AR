@@ -29,7 +29,7 @@
 <br>
 (1115204_01)	-----   فرهنگ و تمدن اسلام و ایران 
 <br>
-[(1322035_01)	-----   پروژه فناوری اطلاعات](https://github.com/Fatemeh7720/PNU_3991_AR/tree/main/BSc-IT-PPROJECT)    
+[(1322035_01)	-----   پروژه فناوری اطلاعات](https://github.com/Fatemeh7720/PNU_3991_AR/tree/main/BSc_IT_PROJECT)    
 
 --------------
 ## گروه های درسی
