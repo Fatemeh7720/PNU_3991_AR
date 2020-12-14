@@ -5,6 +5,7 @@
 -----------
 
 ### فاطمه ایرانی
+- [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [رزومه](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
@@ -18,7 +19,7 @@
 
 </div>
 
-### دروس کارشناسی
+###  فهرست دروس کارشناسی 
 
 (1115071_01)     -----  آزمایشگاه مدار الکتریکی 1
 <br>
@@ -28,9 +29,19 @@
 <br>
 (1115204_01)	-----   فرهنگ و تمدن اسلام و ایران 
 <br>
-[(1322035_01)	-----   پروژه فناوری اطلاعات](https://github.com/Fatemeh7720/PNU_3991_AR/tree/main/BSc-IT-PROJECT)    
+[(1322035_01)	-----   پروژه فناوری اطلاعات](https://github.com/Fatemeh7720/PNU_3991_AR/tree/main/BSc-IT-PPROJECT)    
 
 --------------
+## گروه های درسی
+
+1. G-A01
+     
+    1. [فاطمه ایرانی](https://github.com/Fatemeh7720/PNU_3991_AR.git)
+    1. [لیلا علی پور](https://github.com/leilaalipour/PNU_3991_AR)
+    1. [مینا قاسمی](https://github.com/minaghasemi7)      
+    1. [فائزه قلار](https://github.com/faeze-qlr/PNU_3991_AR)
+----------------
+
 <div align="center">
      
 ### روز و ساعت ارائه دروس
