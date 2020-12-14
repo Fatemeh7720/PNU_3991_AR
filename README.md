@@ -1,4 +1,4 @@
-## [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
+## [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 <div dir="rtl">
 
