@@ -11,7 +11,7 @@
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [GitHub](https://github.com/Fatemeh7720)
-- [jlord patchwork](https://fatemeh7720.github.io/jlord)
+- [jlord patchwork](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/jlord.png)
 --------------------------
 ### سیاهه ارزشیابی درس
 
