@@ -15,7 +15,7 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/_General/FI_CV_CheckList_AR_3991.pdf)
 
 --------------
 
