@@ -8,7 +8,7 @@
 - [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
 - [رزومه (سایت)](https://fatemeh7720.github.io/RESUME/)
-- [رزومه (PDF)](resume pdf/Fatemeh Irani.pdf)
+- [رزومه (PDF)](https://github.com/Fatemeh7720/RESUME/blob/main/resume%20pdf/Fatemeh%20Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [jlord patchwork](jlord.png)
