@@ -7,7 +7,8 @@
 ### فاطمه ایرانی
 - [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
 - [حساب گیت هاب](https://github.com/Fatemeh7720)
-- [رزومه](https://fatemeh7720.github.io/RESUME/)
+- [رزومه (سایت)](https://fatemeh7720.github.io/RESUME/)
+- [رزومه (PDF)](https://fatemeh7720.github.io/RESUME/)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [jlord patchwork](jlord.png)
