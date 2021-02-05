@@ -11,7 +11,7 @@
 - [رزومه (PDF)](https://githubusercontent.com/Fatemeh7720/PNU_3991_AR/main/Fatemeh-Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
-- [jlord patchwork](https://raw.githubusercontent.com/Fatemeh7720/PNU_3991_AR/main/jlord.png)
+- [jlord patchwork](https://githubusercontent.com/Fatemeh7720/PNU_3991_AR/main/jlord.png)
 
 -------------
 > ارزیابی ها
