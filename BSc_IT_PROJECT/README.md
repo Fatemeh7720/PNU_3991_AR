@@ -7,7 +7,8 @@
 
 ### فاطمه ایرانی
 - [PNU_3991_AR](https://github.com/Fatemeh7720/PNU_3991_AR.git)
-- [Resume](https://fatemeh7720.github.io/RESUME/) 
+- [Resume (site)](https://fatemeh7720.github.io/RESUME/)
+- [Resume (PDF)](https://github.com/Fatemeh7720/RESUME/blob/main/resume%20pdf/Fatemeh%20Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [GitHub](https://github.com/Fatemeh7720)
