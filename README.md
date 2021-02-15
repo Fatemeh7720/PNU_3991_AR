@@ -10,7 +10,7 @@
 - [رزومه (html/css)](https://fatemeh7720.github.io/Resume1/)
 - [رزومه (PDF)](https://fatemeh7720.github.io/resume/Fatemeh-Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
--- [html Certificate](html.pdf)
+- [html Certificate](html.pdf)
 - [javascript Certificate](JS.pdf)
 - [jlord patchwork](jlord.png)
 
