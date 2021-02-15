@@ -10,6 +10,7 @@
 - [Resume (html/css)](https://fatemeh7720.github.io/Resume1/)
 - [Resume (PDF)](https://fatemeh7720.github.io/resume/Fatemeh-Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
+- [html certificate](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/html.pdf)
 - [javascript Certificate](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/JS.pdf)
 - [GitHub](https://github.com/Fatemeh7720)
 - [jlord patchwork](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/jlord.png)
