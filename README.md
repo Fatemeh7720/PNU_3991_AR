@@ -11,6 +11,7 @@
 - [رزومه (PDF)](https://fatemeh7720.github.io/resume/Fatemeh-Irani.pdf)
 - [SOP](https://fatemeh7720.github.io/SOP/)
 - [html Certificate](html.pdf)
+- [css Certificate](https://github.com/Fatemeh7720/PNU_3991_AR/blob/main/css.pdf)
 - [javascript Certificate](JS.pdf)
 - [jlord patchwork](jlord.png)
 
